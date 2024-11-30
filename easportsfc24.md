@@ -1,7 +1,7 @@
 # EA Sports FC 24
 
 ![Logo EA Sports FC 24](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/EA_Sports_FC_24_logo.svg/360px-EA_Sports_FC_24_logo.svg.png)
-![Screen z gry EA Sports FC 24](https://f00.esfr.pl/files/storage/article/photo/5a/52/81/eb110d4ec1a50d8cb3ad27b223/fc24_tekst.jpg)
+![Screen z gry EA Sports FC 24]([https://f00.esfr.pl/files/storage/article/photo/5a/52/81/eb110d4ec1a50d8cb3ad27b223/fc24_tekst.jpg](https://www.tabletowo.pl/wp-content/uploads/2023/09/ea-sports-fc-24-screen-3-1.jpg))
 
 ## Opis gry
 EA Sports FC 24 to najnowsza odsłona symulatora piłki nożnej stworzonego przez EA Sports. Po raz pierwszy seria 
