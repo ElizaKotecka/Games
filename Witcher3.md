@@ -1,0 +1,33 @@
+# Witcher 3
+![Witcher3](https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-witcher-3/2/2e/Logo_witcher3_en.jpg)
+
+## What is Witcher 3?
+Witcher 3 is a 2015 action role-playing game developed and published by the Polish studio CD Projekt. It is the sequel to the 2011 game The Witcher 2: Assassins of Kings and the third game in The Witcher video game series, played in an open world with a third-person perspective. The games follow the Witcher series of fantasy novels written by Andrzej Sapkowski.
+
+## Gameplay
+The Witcher 3: Wild Hunt is an action role-playing game with a third-person perspective. Players control Geralt of Rivia, a monster slayer known as a Witcher. Geralt walks, runs, rolls and dodges, and (for the first time in the series) jumps, climbs and swims. He has a variety of weapons, including bombs, a crossbow and two swords (one steel and one silver). The steel sword is used primarily to kill humans while the silver sword is more effective against creatures and monsters. Players can draw out, switch and sheathe their swords at will. There are two modes of melee attack; light attacks are fast but weak, and heavy attacks are slow but strong. Players can block and counter enemy attacks with their swords. Swords have limited endurance and require regular repair. In addition to physical attacks, Geralt has five magical signs at his disposal: Aard, Axii, Igni, Yrden and Quen. Aard prompts Geralt to unleash a telekinetic blast, Axii confuses enemies, Igni burns them, Yrden slows them down and Quen offers players a temporary, protective shield. The signs use stamina, and cannot be used indefinitely. Players can use mutagens to increase Geralt's magic power. Geralt loses health when attacked by enemies, although wearing armour can help reduce health loss. Health is restored with meditation or consumables, such as food and potions.Players occasionally control Ciri, Geralt's adoptive daughter who can teleport short distances.
+
+## Main character
+Geralt of Rivia was a legendary witcher of the School of the Wolf active throughout the 13th century. He loved the sorceress Yennefer, considered the love of his life despite their tumultuous relationship, and became Ciri's adoptive father.
+During the Trial of the Grasses, Geralt exhibited unusual tolerance for the mutagens that grant witchers their abilities. Accordingly, Geralt was subjected to further experimental mutagens which rendered his hair white and may have given him greater speed, strength, and stamina than his fellow witchers. Despite his title, Geralt did not hail from the city of Rivia. After being left with the witchers by his mother, Visenna, he grew up in their keep of Kaer Morhen in the realm of Kaedwen
+![Geralt of Rivia](https://sm.ign.com/ign_ap/news/t/the-witche/the-witcher-4-stars-geralt-of-rivia-but-not-as-the-main-char_6hkb.jpg)
+
+## Plot
+Geralt and his mentor Vesemir arrive at the town of White Orchard after receiving a letter from Geralt's long-lost lover Yennefer. After defeating a griffin for the local Nilfgaardian garrison, Geralt accompanies Yennefer to the city of Vizima, where they meet with Emperor Emhyr. Emhyr orders Geralt to find Ciri, who is Emhyr's biological (and Geralt's adopted) daughter. Ciri is a Child of the Elder Blood, the last heir to an ancient Elven bloodline that grants her the power to manipulate time and space, and is being relentlessly stalked by the enigmatic Wild Hunt. Geralt learns of three places Ciri was recently seen: the war-ravaged swamp province of Velen, the free city-state of Novigrad, and the Skellige Isles.
+In Velen, Geralt tracks Ciri to the fortress of The Bloody Baron, a warlord who recently took over the province. The Baron demands that Geralt find his missing wife and daughter in exchange for information about Ciri. Geralt learns that the Baron drove his own family away with his drunken rages; while his daughter fled to Oxenfurt, his wife Anna became a servant of the Crones, three malicious witches that watch over Velen. He also discovers that Ciri was briefly captured by the Crones, but escaped to the Baron's stronghold before continuing on to Novigrad. Geralt sails to Skellige and reunites with Yennefer, who is investigating a magical explosion near where Ciri was last seen. They discover that Ciri visited the island of Lofoten, but when the Wild Hunt attacked again, fled in a boat with an unidentified elf. When the boat returned to shore, its only occupant was Uma, a deformed creature Geralt previously saw living with the Bloody Baron. Deducing that Uma was the victim of the curse Ciri tried to lift in Novigrad, Geralt collects Uma in Velen and takes him to the nearly abandoned witcher school at Kaer Morhen. Realizing that the Hunt will never stop, Ciri and Geralt decide to fight Eredin at a time and place of their choosing. While Triss and Yennefer reform the Lodge of Sorceresses to aid in the fight, Geralt recovers the Sunstone, an artifact that can communicate between worlds. Using the Sunstone, Avallac'h lures Eredin to Skellige, where Geralt defeats him in combat. As he dies, Eredin tells Geralt that Avallac'h has betrayed him, and plans to use Ciri's power for his own ends. The player's choices can lead to several different endings. If Ciri survives after defeating the White Frost and Geralt took her to meet her father, she will become the Empress of Nilfgaard. If Ciri survives but did not meet the emperor, Geralt helps her fake her death, and she becomes a witcher. If Ciri is killed in her confrontation with the White Frost, Geralt retrieves her medallion from the last remaining Crone and mourns quietly as his hut is swarmed by monsters. The player's choices also determine whether Geralt ends up in a romantic relationship with Yennefer, Triss, or neither, and how much of the North is ultimately conquered by Nilfgaard.
+
+## Armors in game
+In game you can meet a lot of armors, but some of them are special. They are from witcher's school and can provide you with special bonusses:
+
+| **Witcher shool** | **Type of armor** | **Bonuses** |
+|----------------|-----------------|-------------------|
+| Wolf school gear        |Medium armor      | Stamina regeneration    |
+| Cat school gear |Light armor    | Stamina regeneration      |
+| Griffin school gear      | Medium Armour | Stamina regeneration|
+| Bear school gear | Heavy armor      | Resistance to damage       |
+| Viper school Gear    | Medium armor     | Resistance to damage   |
+| Manticore school gear | Medium armor | Better alchemy |
+
+# Usefull links:
+* [Game site](https://www.thewitcher.com/us/pl/witcher3)
+* [Fandom](https://witcher.fandom.com/wiki/The_Witcher_3:_Wild_Hunt)
