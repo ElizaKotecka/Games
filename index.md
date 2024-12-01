@@ -8,3 +8,5 @@ There are many types of computer games. Some require us to demonstrate the right
 The world of computer games is so large that everyone can find something for themselves. Below you can check a few games we have selected and desribed.
 
 [Cyberpunk 2077](cyberpunk.md)
+[FC 24](easportsfc24.md)
+[Witcher 3](Witcher3.md)
